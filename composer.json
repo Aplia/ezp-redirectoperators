@@ -1,0 +1,15 @@
+{
+    "name": "aplia/redirectoperators",
+    "description": "Operators for performing URL redirect from within a template.",
+    "keywords": ["ezextension", "redirect", "operator"],
+    "homepage": "https://github.com/Aplia/redirectoperators",
+    "type": "ezpublish-legacy-extension",
+    "license": "GPL-2.0",
+    "extra": {
+        "ezpublish-legacy-extension-name": "redirectoperators"
+    },
+    "require": {
+        "php": ">=5.3",
+        "composer/composer": ">=1.0"
+    }
+}
