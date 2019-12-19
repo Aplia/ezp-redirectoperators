@@ -5,6 +5,10 @@ Operators for performing URL redirect from within a template. The operators will
 - `redirectabsolute`
 - `redirectrelative`
 
+[![Latest Stable Version](https://img.shields.io/packagist/v/aplia/redirectoperators.svg?style=flat-square)](https://packagist.org/packages/aplia/redirectoperators)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.3-8892BF.svg?style=flat-square)](https://php.net/)
+
+
 ## Installation
 Install with Composer:
 
