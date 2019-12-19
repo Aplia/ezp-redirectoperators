@@ -1,6 +1,6 @@
 # Redirectoperators
 
-Operators for performing URL redirect from within a template. The operators will send an HTTP header 301.
+eZ publish legacy template operators for performing URL redirect from within a template. The operators will send an HTTP header 301.
 
 - `redirectabsolute`
 - `redirectrelative`
