@@ -1,3 +1,9 @@
+# Deprecated
+
+This package is deprecated and can be replaced by using the `redirect` operator from composer package [Swark](https://github.com/Aplia/swark) instead.
+
+ie. `{redirectrelative( '' )}` becomes `{redirect( '', 301 )}` and `{redirectabsolute( '' )}` becomes `{redirect( '', 301, 'abs' )}`.
+
 # Redirectoperators
 
 eZ publish legacy template operators for performing URL redirect from within a template. The operators will send an HTTP header 301.
