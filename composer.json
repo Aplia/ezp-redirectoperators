@@ -8,6 +8,7 @@
     "extra": {
         "ezpublish-legacy-extension-name": "redirectoperators"
     },
+    "abandoned": "aplia/swark",
     "require": {
         "php": ">=5.3",
         "composer/composer": ">=1.0"
